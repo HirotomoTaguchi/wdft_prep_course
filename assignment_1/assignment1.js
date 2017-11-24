@@ -3,8 +3,11 @@ Exercise #1
 Create a variable named "numbers" and assign an empty array to it.
 */
 var numbers;
-console.log('Hello World')
+console.log('Hello World');
 
+ver name;
+string name = "Hirotomo";
+console.log("Hello " + name)
 
 /*
 Exercise #2

@@ -1,1 +1,10 @@
-
+.ex1{
+    width:200px;
+    color: snow;
+    background-color: gray;
+    padding: (10px,20px);
+    margin-bottom:30px;
+    border-width: 1px;
+	border-color: gray;
+	border-style: solid;
+}
